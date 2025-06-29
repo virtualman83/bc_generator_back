@@ -1,0 +1,120 @@
+{
+  "villes": [
+    {
+      "name": "Toulouse",
+      "position": { "latitude": 43.6047, "longitude": 1.4442 },
+      "sections": [
+        {
+          "title": "Zones clés",
+          "points": [
+            { "name": "Aéroport", "full_address": "Aéroport Toulouse-Blagnac, 31703 Blagnac, France", "position": { "latitude": 43.6293, "longitude": 1.3673 }, "random_address": false },
+            { "name": "Capitole", "full_address": "Place du Capitole, 31000 Toulouse, France", "position": { "latitude": 43.6045, "longitude": 1.4442 }, "random_address": false },
+            { "name": "Gare", "full_address": "Gare Matabiau, 64 Boulevard Pierre Semard, 31500 Toulouse, France", "position": { "latitude": 43.6126, "longitude": 1.4541 }, "random_address": false }
+          ]
+        },
+        {
+          "title": "Communes",
+          "points": [
+            { "name": "Centre ville Toulouse", "full_address": "31000 Toulouse, France", "position": { "latitude": 43.6047, "longitude": 1.4442 }, "random_address": true },
+            { "name": "Balma", "full_address": "Balma, 31130, France", "position": { "latitude": 43.6231, "longitude": 1.4994 }, "random_address": true },
+            { "name": "Cugnaux", "full_address": "Cugnaux, 31270, France", "position": { "latitude": 43.5381, "longitude": 1.3447 }, "random_address": true },
+            { "name": "Blagnac", "full_address": "Blagnac, 31700, France", "position": { "latitude": 43.6328, "longitude": 1.3936 }, "random_address": true }
+          ]
+        },
+        {
+          "title": "Boites",
+          "points": [
+            { "name": "Bikini (Ramonville)", "full_address": "Le Bikini, Rue Théodore Monod, 31520 Ramonville-Saint-Agne, France", "position": { "latitude": 43.5475, "longitude": 1.4708 }, "random_address": false },
+            { "name": "Interference (Balma)", "full_address": "Interference, 7 Rue Paul Langevin, 31130 Balma, France", "position": { "latitude": 43.6225, "longitude": 1.4997 }, "random_address": false },
+            { "name": "Nine (Sesquiere)", "full_address": "Nine Club, 8 Chemin de la Glaciere, 31200 Toulouse, France", "position": { "latitude": 43.6542, "longitude": 1.4267 }, "random_address": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bayonne",
+      "position": { "latitude": 43.4929, "longitude": -1.4748 },
+      "sections": [
+        {
+          "title": "Zones clés",
+          "points": [
+            { "name": "Aéroport", "full_address": "Aéroport de Biarritz Pays Basque, 7 Espl. de l'Europe, 64600 Anglet, France", "position": { "latitude": 43.4683, "longitude": -1.5311 }, "random_address": false },
+            { "name": "Gare", "full_address": "Gare de Bayonne, All. Marines, 64100 Bayonne, France", "position": { "latitude": 43.4921, "longitude": -1.4676 }, "random_address": false }
+          ]
+        },
+        {
+          "title": "Communes",
+          "points": [
+            { "name": "Centre ville Bayonne", "full_address": "64100 Bayonne, France", "position": { "latitude": 43.4929, "longitude": -1.4748 }, "random_address": true },
+            { "name": "Anglet", "full_address": "Anglet, 64600, France", "position": { "latitude": 43.4850, "longitude": -1.5183 }, "random_address": true },
+            { "name": "Biarritz", "full_address": "Biarritz, 64200, France", "position": { "latitude": 43.4832, "longitude": -1.5586 }, "random_address": true },
+            { "name": "Tarnos", "full_address": "Tarnos, 40220, France", "position": { "latitude": 43.5256, "longitude": -1.4522 }, "random_address": true }
+          ]
+        },
+        {
+          "title": "Boites",
+          "points": [
+            { "name": "Le Set", "full_address": "Le Set, 1 Av. de la Plage, 64600 Anglet, France", "position": { "latitude": 43.5006, "longitude": -1.5267 }, "random_address": false },
+            { "name": "Carré Coast", "full_address": "Carré Coast, 7 Rue du Helder, 64200 Biarritz, France", "position": { "latitude": 43.4826, "longitude": -1.5612 }, "random_address": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nice",
+      "position": { "latitude": 43.7102, "longitude": 7.2620 },
+      "sections": [
+        {
+          "title": "Zones clés",
+          "points": [
+            { "name": "Aéroport", "full_address": "Aéroport Nice Côte d'Azur, Rue Costes et Bellonte, 06206 Nice, France", "position": { "latitude": 43.6653, "longitude": 7.2150 }, "random_address": false },
+            { "name": "Gare", "full_address": "Gare de Nice-Ville, Avenue Thiers, 06000 Nice, France", "position": { "latitude": 43.7031, "longitude": 7.2619 }, "random_address": false }
+          ]
+        },
+        {
+          "title": "Communes",
+          "points": [
+            { "name": "Centre ville Nice", "full_address": "06000 Nice, France", "position": { "latitude": 43.7102, "longitude": 7.2620 }, "random_address": true },
+            { "name": "Cagnes-sur-Mer", "full_address": "Cagnes-sur-Mer, 06800, France", "position": { "latitude": 43.6634, "longitude": 7.1485 }, "random_address": true },
+            { "name": "Villefranche-sur-Mer", "full_address": "Villefranche-sur-Mer, 06230, France", "position": { "latitude": 43.7046, "longitude": 7.3111 }, "random_address": true },
+            { "name": "Saint-Laurent-du-Var", "full_address": "Saint-Laurent-du-Var, 06700, France", "position": { "latitude": 43.6687, "longitude": 7.1881 }, "random_address": true }
+          ]
+        },
+        {
+          "title": "Boites",
+          "points": [
+            { "name": "High Club", "full_address": "High Club, 45 Prom. des Anglais, 06000 Nice, France", "position": { "latitude": 43.6955, "longitude": 7.2557 }, "random_address": false },
+            { "name": "Le Glam", "full_address": "Le Glam, 6 Rue Eugène Emmanuel, 06000 Nice, France", "position": { "latitude": 43.7012, "longitude": 7.2657 }, "random_address": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dax",
+      "position": { "latitude": 43.7101, "longitude": -1.0537 },
+      "sections": [
+        {
+          "title": "Zones clés",
+          "points": [
+            { "name": "Gare", "full_address": "Gare de Dax, 40100 Dax, France", "position": { "latitude": 43.7232, "longitude": -1.0367 }, "random_address": false }
+          ]
+        },
+        {
+          "title": "Communes",
+          "points": [
+            { "name": "Centre ville Dax", "full_address": "40100 Dax, France", "position": { "latitude": 43.7101, "longitude": -1.0537 }, "random_address": true },
+            { "name": "Saint-Paul-lès-Dax", "full_address": "Saint-Paul-lès-Dax, 40990, France", "position": { "latitude": 43.7267, "longitude": -1.0676 }, "random_address": true },
+            { "name": "Yzosse", "full_address": "Yzosse, 40180, France", "position": { "latitude": 43.6951, "longitude": -1.0127 }, "random_address": true },
+            { "name": "Narrosse", "full_address": "Narrosse, 40180, France", "position": { "latitude": 43.6937, "longitude": -1.0487 }, "random_address": true }
+          ]
+        },
+        {
+          "title": "Boites",
+          "points": [
+            { "name": "Le Privilège", "full_address": "Le Privilège, 1 Rue du Privilège, 40100 Dax, France", "position": { "latitude": 43.7105, "longitude": -1.0530 }, "random_address": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
