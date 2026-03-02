@@ -31,6 +31,112 @@
         }
       ]
     },
+	{
+  "name": "Saint-Tropez",
+  "position": { "latitude": 43.2697, "longitude": 6.6407 },
+  "sections": [
+    {
+      "title": "Zones clés",
+      "points": [
+        {
+          "name": "Port de Saint-Tropez",
+          "full_address": "Port de Saint-Tropez, 83990 Saint-Tropez, France",
+          "position": { "latitude": 43.2720, "longitude": 6.6396 },
+          "random_address": false
+        },
+        {
+          "name": "Place des Lices",
+          "full_address": "Place des Lices, 83990 Saint-Tropez, France",
+          "position": { "latitude": 43.2682, "longitude": 6.6386 },
+          "random_address": false
+        },
+        {
+          "name": "Citadelle de Saint-Tropez",
+          "full_address": "Citadelle de Saint-Tropez, 1 Montée de la Citadelle, 83990 Saint-Tropez, France",
+          "position": { "latitude": 43.2742, "longitude": 6.6435 },
+          "random_address": false
+        },
+        {
+          "name": "Gendarmerie (Musée)",
+          "full_address": "2 Place Blanqui, 83990 Saint-Tropez, France",
+          "position": { "latitude": 43.2709, "longitude": 6.6383 },
+          "random_address": false
+        },
+        {
+          "name": "Plage de Pampelonne",
+          "full_address": "Plage de Pampelonne, 83350 Ramatuelle, France",
+          "position": { "latitude": 43.2276, "longitude": 6.6627 },
+          "random_address": false
+        }
+      ]
+    },
+    {
+      "title": "Communes",
+      "points": [
+        {
+          "name": "Ramatuelle",
+          "full_address": "83350 Ramatuelle, France",
+          "position": { "latitude": 43.2167, "longitude": 6.6111 },
+          "random_address": true
+        },
+        {
+          "name": "Gassin",
+          "full_address": "83580 Gassin, France",
+          "position": { "latitude": 43.2308, "longitude": 6.5856 },
+          "random_address": true
+        },
+        {
+          "name": "Cogolin",
+          "full_address": "83310 Cogolin, France",
+          "position": { "latitude": 43.2520, "longitude": 6.5303 },
+          "random_address": true
+        },
+        {
+          "name": "Sainte-Maxime",
+          "full_address": "83120 Sainte-Maxime, France",
+          "position": { "latitude": 43.3087, "longitude": 6.6381 },
+          "random_address": true
+        },
+        {
+          "name": "Grimaud",
+          "full_address": "83310 Grimaud, France",
+          "position": { "latitude": 43.2735, "longitude": 6.5218 },
+          "random_address": true
+        }
+      ]
+    },
+    {
+      "title": "Boites",
+      "points": [
+        {
+          "name": "Les Caves du Roy",
+          "full_address": "Hôtel Byblos, Avenue Paul Signac, 83990 Saint-Tropez, France",
+          "position": { "latitude": 43.2718, "longitude": 6.6390 },
+          "random_address": false
+        },
+        {
+          "name": "VIP Room",
+          "full_address": "Résidence du Nouveau Port, 83990 Saint-Tropez, France",
+          "position": { "latitude": 43.2714, "longitude": 6.6375 },
+          "random_address": false
+        },
+        {
+          "name": "Gaio",
+          "full_address": "4 Quai Jean Jaurès, 83990 Saint-Tropez, France",
+          "position": { "latitude": 43.2723, "longitude": 6.6398 },
+          "random_address": false
+        },
+        {
+          "name": "Club 55 (Pampelonne)",
+          "full_address": "43 Boulevard Patch, 83350 Ramatuelle, France",
+          "position": { "latitude": 43.2271, "longitude": 6.6614 },
+          "random_address": false
+        }
+      ]
+    }
+  ]
+}
+	,
     {
       "name": "Bayonne",
       "position": { "latitude": 43.4929, "longitude": -1.4748 },
