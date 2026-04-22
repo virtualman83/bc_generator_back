@@ -1,5 +1,6 @@
 {
   "drivers": [
+	  "Toulouse":[
 	  {
       "name": "Akram",
       "phone": "+33666178650",
@@ -67,8 +68,9 @@
       "capital": 7500,
       "password": "ia6407",
 	  "device_uuid":"1d312c2c-de47-4941-ad37-998136036bc11"
-    },
-    
+    }
+  ],
+    "Lyon":[
     {
       "name": "Tarek Haddad",
       "phone": "+33684820366",
@@ -323,4 +325,5 @@
 	  "device_uuid":"1d312c2c-de47-4941-ad37-998136036bc27"
     }
   ]
+	]
 }
