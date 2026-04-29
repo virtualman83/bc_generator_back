@@ -1,0 +1,90 @@
+LICENCE D’UTILISATION – FOX-BC
+
+Application : Fox-BC
+Éditeur : OrderSync
+Site web : https://vtc.ordersync.fr
+
+Développeur : A. SALEM
+Contact licence : vtcdriver1983@gmail.com
+
+1. OBJET
+
+La présente licence définit les conditions d’accès et d’utilisation de l’application Fox-BC, destinée notamment aux chauffeurs VTC pour la création de bons de commande.
+
+2. ACCÈS À L’APPLICATION
+
+L’accès à l’Application est conditionné à l’obtention d’une licence valide.
+
+Pour obtenir un accès, l’utilisateur doit :
+
+Envoyer une demande à : vtcdriver1983@gmail.com
+Fournir les informations demandées (identité, usage, etc.)
+S’acquitter du paiement correspondant à la licence choisie
+
+L’accès est activé après validation par l’éditeur.
+
+3. TARIFICATION
+
+Les licences sont proposées selon les modalités suivantes :
+
+10 € par mois (licence mensuelle)
+100 € par an (licence annuelle)
+
+Les paiements sont non remboursables sauf décision exceptionnelle de l’éditeur.
+
+L’éditeur se réserve le droit de modifier les tarifs à tout moment. Les nouveaux tarifs ne s’appliquent pas aux licences déjà actives jusqu’à leur expiration.
+
+4. DROITS D’UTILISATION
+
+La licence accorde à l’utilisateur :
+
+Un droit personnel, non exclusif et non transférable d’utiliser l’Application
+L’utilisation dans le cadre de son activité professionnelle VTC
+La génération de documents (bons de commande, etc.)
+5. RESTRICTIONS
+
+Il est strictement interdit de :
+
+Partager ou revendre l’accès à l’Application
+Copier, modifier ou redistribuer l’Application sans autorisation
+Contourner les mécanismes de licence ou de sécurité
+Utiliser l’Application à des fins frauduleuses ou illégales
+6. RESPONSABILITÉ
+
+L’Application est fournie “en l’état”.
+
+L’utilisateur est seul responsable :
+
+De la conformité légale de ses bons de commande
+Du respect de la réglementation VTC (facturation, obligations fiscales, etc.)
+Des données saisies dans l’Application
+
+OrderSync et A. SALEM ne pourront être tenus responsables de pertes financières, litiges clients ou sanctions administratives.
+
+7. DURÉE ET RÉSILIATION
+La licence est valable pour la durée souscrite (mensuelle ou annuelle)
+Elle est automatiquement suspendue en cas de non-paiement
+Toute violation des présentes conditions entraîne une résiliation immédiate
+8. PROPRIÉTÉ INTELLECTUELLE
+
+L’Application Fox-BC reste la propriété exclusive de OrderSync.
+
+Aucun droit de propriété n’est transféré à l’utilisateur.
+
+9. ÉVOLUTIONS
+
+L’éditeur se réserve le droit de :
+
+Modifier ou améliorer l’Application
+Ajouter ou supprimer des fonctionnalités
+Corriger des anomalies sans préavis
+10. DROIT APPLICABLE
+
+La présente licence est soumise au droit français.
+
+11. CONTACT
+
+Pour toute demande :
+vtcdriver1983@gmail.com
+
+https://vtc.ordersync.fr
